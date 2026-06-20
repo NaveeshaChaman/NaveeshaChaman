@@ -16,7 +16,7 @@ Naveeesha</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Mysql <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Mysql <a href="https://github.com/100rabhcsmc/100DaysOfmysql" target="blank">100DaysOfmysql</a>
 
 - 📫 How to reach me cit-24-02-0226@Sltc.ac.lk
 
